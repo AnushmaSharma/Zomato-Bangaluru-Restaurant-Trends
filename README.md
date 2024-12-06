@@ -34,3 +34,6 @@ Data Source Ethics: The data was scraped from Zomato, and it's essential to cons
 Bias and Fairness: Using data from a single source may unintentionally amplify biases inherent to that platform. For instance, Zomato listings may overrepresent certain types of restaurants (e.g., high-end dining) and underrepresent smaller or minority-owned businesses.
 
 Transparency: When using or sharing this data, it's important to disclose how it was collected, any limitations, and potential biases to avoid misleading interpretations.
+
+TABLEAU LINK: https://public.tableau.com/app/profile/anushma.sharma/viz/AnushmaSharma_ZomatoBengaluruRestaurants/ZomatoBengaluruRestaurants?publish=yes
+
